@@ -1,0 +1,295 @@
+{
+  "channel": "https://www.youtube.com/@EntangledPark/videos",
+  "checked": "2026-11-22",
+  "videos": [
+    {
+      "id": "jWS-MHHnulY",
+      "title": "[양자정보 기초] 1-1. 행렬과 벡터",
+      "duration": "38:30",
+      "published": "2024-03-18T10:21:45-07:00",
+      "uploaded": "2024-03-18T10:21:45-07:00",
+      "order": 1,
+      "shortTitle": "1-1. 행렬과 벡터",
+      "lecture": [
+        1,
+        1
+      ],
+      "group": "foundation",
+      "date": "2024.03.19",
+      "url": "https://www.youtube.com/watch?v=jWS-MHHnulY",
+      "seconds": 2310
+    },
+    {
+      "id": "zyIPBZOQbh8",
+      "title": "[양자정보 기초] 1-2. eigenvector, eigenvalue, Hermitian, Unitary",
+      "duration": "39:45",
+      "published": "2024-03-18T10:25:30-07:00",
+      "uploaded": "2024-03-18T10:25:30-07:00",
+      "order": 2,
+      "shortTitle": "1-2. eigenvector, eigenvalue, Hermitian, Unitary",
+      "lecture": [
+        1,
+        2
+      ],
+      "group": "foundation",
+      "date": "2024.03.19",
+      "url": "https://www.youtube.com/watch?v=zyIPBZOQbh8",
+      "seconds": 2385
+    },
+    {
+      "id": "YvWApSrUmps",
+      "title": "[양자정보 기초] 2. 양자역학의 공리",
+      "duration": "47:47",
+      "published": "2024-03-20T08:24:46-07:00",
+      "uploaded": "2024-03-20T08:24:46-07:00",
+      "order": 3,
+      "shortTitle": "2. 양자역학의 공리",
+      "lecture": [
+        2,
+        0
+      ],
+      "group": "foundation",
+      "date": "2024.03.21",
+      "url": "https://www.youtube.com/watch?v=YvWApSrUmps",
+      "seconds": 2867
+    },
+    {
+      "id": "wJWe9OveRsg",
+      "title": "[양자정보 기초] 3. 기초 컴퓨터과학",
+      "duration": "1:06:22",
+      "published": "2024-03-31T10:04:24-07:00",
+      "uploaded": "2024-03-31T10:04:24-07:00",
+      "order": 4,
+      "shortTitle": "3. 기초 컴퓨터과학",
+      "lecture": [
+        3,
+        0
+      ],
+      "group": "foundation",
+      "date": "2024.04.01",
+      "url": "https://www.youtube.com/watch?v=wJWe9OveRsg",
+      "seconds": 3982
+    },
+    {
+      "id": "J2GvATl3MQw",
+      "title": "[양자정보 기초] 4-2 Multi qubit Systems, Quantum Circuit",
+      "duration": "1:08:08",
+      "published": "2024-04-07T00:29:34-07:00",
+      "uploaded": "2024-04-07T00:29:34-07:00",
+      "order": 5,
+      "shortTitle": "4-2 Multi qubit Systems, Quantum Circuit",
+      "lecture": [
+        4,
+        2
+      ],
+      "group": "circuit",
+      "date": "2024.04.07",
+      "url": "https://www.youtube.com/watch?v=J2GvATl3MQw",
+      "seconds": 4088
+    },
+    {
+      "id": "2lEVxNFyq6E",
+      "title": "[양자정보 기초] 4-1. Qubit, Bloch sphere, Single qubit gate",
+      "duration": "45:35",
+      "published": "2024-04-07T00:29:44-07:00",
+      "uploaded": "2024-04-07T00:29:44-07:00",
+      "order": 6,
+      "shortTitle": "4-1. Qubit, Bloch sphere, Single qubit gate",
+      "lecture": [
+        4,
+        1
+      ],
+      "group": "circuit",
+      "date": "2024.04.07",
+      "url": "https://www.youtube.com/watch?v=2lEVxNFyq6E",
+      "seconds": 2735
+    },
+    {
+      "id": "uBBEiyY-yKE",
+      "title": "[양자정보 기초] 5-1. Hadamard Transform, Deutsch-Jozsa Algorithm",
+      "duration": "45:28",
+      "published": "2024-04-15T19:07:53-07:00",
+      "uploaded": "2024-04-15T19:07:53-07:00",
+      "order": 7,
+      "shortTitle": "5-1. Hadamard Transform, Deutsch-Jozsa Algorithm",
+      "lecture": [
+        5,
+        1
+      ],
+      "group": "algorithm",
+      "date": "2024.04.16",
+      "url": "https://www.youtube.com/watch?v=uBBEiyY-yKE",
+      "seconds": 2728
+    },
+    {
+      "id": "2k-ZZSmgF0Y",
+      "title": "[양자정보 기초] 5-2. Grover's Algorithm",
+      "duration": "31:08",
+      "published": "2024-04-15T22:08:08-07:00",
+      "uploaded": "2024-04-15T22:08:08-07:00",
+      "order": 8,
+      "shortTitle": "5-2. Grover's Algorithm",
+      "lecture": [
+        5,
+        2
+      ],
+      "group": "algorithm",
+      "date": "2024.04.16",
+      "url": "https://www.youtube.com/watch?v=2k-ZZSmgF0Y",
+      "seconds": 1868
+    },
+    {
+      "id": "ADkcfoBVqvw",
+      "title": "[양자정보 기초] 6-2. Variational Quantum Algorithm(VQA)",
+      "duration": "22:37",
+      "published": "2024-05-08T10:40:54-07:00",
+      "uploaded": "2024-05-08T10:40:54-07:00",
+      "order": 9,
+      "shortTitle": "6-2. Variational Quantum Algorithm(VQA)",
+      "lecture": [
+        6,
+        2
+      ],
+      "group": "algorithm",
+      "date": "2024.05.09",
+      "url": "https://www.youtube.com/watch?v=ADkcfoBVqvw",
+      "seconds": 1357
+    },
+    {
+      "id": "FhmZAgPv4Vk",
+      "title": "[양자정보 기초] 6-1. Quantum Fourier Transform(QFT)",
+      "duration": "1:13:21",
+      "published": "2024-05-08T10:52:30-07:00",
+      "uploaded": "2024-05-08T10:52:30-07:00",
+      "order": 10,
+      "shortTitle": "6-1. Quantum Fourier Transform(QFT)",
+      "lecture": [
+        6,
+        1
+      ],
+      "group": "algorithm",
+      "date": "2024.05.09",
+      "url": "https://www.youtube.com/watch?v=FhmZAgPv4Vk",
+      "seconds": 4401
+    },
+    {
+      "id": "5bki2K_xYvc",
+      "title": "[양자정보 기초] 7.  Qiskit과 IBM Quantum Platform 알아보기",
+      "duration": "1:13:51",
+      "published": "2024-05-13T10:47:41-07:00",
+      "uploaded": "2024-05-13T10:47:41-07:00",
+      "order": 11,
+      "shortTitle": "7.  Qiskit과 IBM Quantum Platform 알아보기",
+      "lecture": [
+        7,
+        0
+      ],
+      "group": "algorithm",
+      "date": "2024.05.14",
+      "url": "https://www.youtube.com/watch?v=5bki2K_xYvc",
+      "seconds": 4431
+    },
+    {
+      "id": "tWArTFKawYQ",
+      "title": "[양자정보 기초] 8-1. Quantum Key Distribution(QKD), BB84 Protocol",
+      "duration": "44:58",
+      "published": "2024-05-22T10:05:58-07:00",
+      "uploaded": "2024-05-22T10:05:58-07:00",
+      "order": 12,
+      "shortTitle": "8-1. Quantum Key Distribution(QKD), BB84 Protocol",
+      "lecture": [
+        8,
+        1
+      ],
+      "group": "communication",
+      "date": "2024.05.23",
+      "url": "https://www.youtube.com/watch?v=tWArTFKawYQ",
+      "seconds": 2698
+    },
+    {
+      "id": "FcrSlr3SD4g",
+      "title": "[양자정보 기초] 8-2. EPR and the Bell Inequality",
+      "duration": "31:02",
+      "published": "2024-05-22T10:12:27-07:00",
+      "uploaded": "2024-05-22T10:12:27-07:00",
+      "order": 13,
+      "shortTitle": "8-2. EPR and the Bell Inequality",
+      "lecture": [
+        8,
+        2
+      ],
+      "group": "communication",
+      "date": "2024.05.23",
+      "url": "https://www.youtube.com/watch?v=FcrSlr3SD4g",
+      "seconds": 1862
+    },
+    {
+      "id": "4OU3IS9mknQ",
+      "title": "[양자정보 기초] 9-1. Quantum Measurement",
+      "duration": "32:52",
+      "published": "2024-05-30T23:38:14-07:00",
+      "uploaded": "2024-05-30T23:38:14-07:00",
+      "order": 14,
+      "shortTitle": "9-1. Quantum Measurement",
+      "lecture": [
+        9,
+        1
+      ],
+      "group": "noise",
+      "date": "2024.05.31",
+      "url": "https://www.youtube.com/watch?v=4OU3IS9mknQ",
+      "seconds": 1972
+    },
+    {
+      "id": "0ySiZiQ0VsA",
+      "title": "[양자정보 기초] 9-2. Density Operator",
+      "duration": "1:20:36",
+      "published": "2024-05-31T04:49:40-07:00",
+      "uploaded": "2024-05-31T04:49:40-07:00",
+      "order": 15,
+      "shortTitle": "9-2. Density Operator",
+      "lecture": [
+        9,
+        2
+      ],
+      "group": "noise",
+      "date": "2024.05.31",
+      "url": "https://www.youtube.com/watch?v=0ySiZiQ0VsA",
+      "seconds": 4836
+    },
+    {
+      "id": "wTOo287IyMI",
+      "title": "[양자정보 기초] 10-1. Noisy Evolution",
+      "duration": "39:07",
+      "published": "2024-07-16T07:08:40-07:00",
+      "uploaded": "2024-07-16T07:08:40-07:00",
+      "order": 16,
+      "shortTitle": "10-1. Noisy Evolution",
+      "lecture": [
+        10,
+        1
+      ],
+      "group": "noise",
+      "date": "2024.07.16",
+      "url": "https://www.youtube.com/watch?v=wTOo287IyMI",
+      "seconds": 2347
+    },
+    {
+      "id": "3KKcOyr-yY4",
+      "title": "[양자정보 기초] 10-2. Quantum Error Correction",
+      "duration": "38:22",
+      "published": "2024-07-16T07:09:02-07:00",
+      "uploaded": "2024-07-16T07:09:02-07:00",
+      "order": 17,
+      "shortTitle": "10-2. Quantum Error Correction",
+      "lecture": [
+        10,
+        2
+      ],
+      "group": "noise",
+      "date": "2024.07.16",
+      "url": "https://www.youtube.com/watch?v=3KKcOyr-yY4",
+      "seconds": 2302
+    }
+  ]
+}
